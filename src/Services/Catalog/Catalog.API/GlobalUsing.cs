@@ -4,3 +4,4 @@ global using MediatR;// A library for implementing the mediator pattern which he
 global using Marten;
 global using BuildingBlocks.CQRS;
 global using Catalog.API.Models;
+global using Catalog.API.Exceptions;
